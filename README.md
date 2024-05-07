@@ -106,12 +106,12 @@ if(NUM_LOOPS>=10)    {
     return 0;
 }
 
-## OUTPUT
-$ ./sem.o 
-![image](https://github.com/Lakshmi-v-Priya/Linux-IPC-Semaphores/assets/151720706/087e1761-f176-4308-a071-5986d18b7f2a)
-
+## OUTPUT :
+$ ./sem.o
+![image](https://github.com/Lakshmi-v-Priya/Linux-IPC-Semaphores/assets/151720706/e7c56eb3-f224-4b61-af4f-f54fffb893d3)
 $ ipcs
-![image](https://github.com/Lakshmi-v-Priya/Linux-IPC-Semaphores/assets/151720706/9bd71117-4590-427c-93e1-16c134fe724d)
+![image](https://github.com/Lakshmi-v-Priya/Linux-IPC-Semaphores/assets/151720706/a87ec329-4bc6-4168-972e-4f7b222adb5e)
+
 
 # RESULT:
 The program is executed successfully.
